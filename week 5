@@ -1,0 +1,35 @@
+	public class triangleshape {
+
+		private double  width;
+		private point  height;
+
+		public triangleshape (double width, point height) {
+			this.width = width;
+			this.height = height;
+		}
+
+		public double width (){
+			return this.height;
+		}
+
+		public Point center() {
+			return this.center; 
+		}
+	}
+
+	public class circle {
+		private triangleshape triangleshape;
+
+		public triangle (double width, point height) {
+			const this.triangleshape = new triangleshape (width,height);
+		}
+
+		public double 180 () {
+			return (triangleshape.width) * Math.a+b+c);
+		}
+
+		public double width (){
+			return (this.triangleshape.width )
+		}
+	}
+}
